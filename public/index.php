@@ -1,2 +1,2 @@
 <?php
-    echo "Hello CI4";
+    phpinfo();
