@@ -8,6 +8,7 @@ class Phpinfo extends BaseController
 {
     public function index()
     {
+        echo base_url();
         return phpinfo();
     }
 }
